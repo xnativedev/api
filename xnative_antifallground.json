@@ -1,4 +1,4 @@
-{
+[
   "config": {
     "version": "1.0.0",
     "downloadLink": "https://www.google.com"
@@ -11,4 +11,4 @@
       "buyDateTime": "21/02/2567 23:37"
     }
   }
-}
+]
