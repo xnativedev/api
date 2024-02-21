@@ -3,7 +3,7 @@
         "version": "1.0.0"
     },
     "whitelists": {
-        "127.0.0.1": {
+        "103.91.190.178": {
           "customerName": "xNative.Dev",
           "discordId": "466181621767471125",
           "buyDateTime": "21/02/2567 23:37"
