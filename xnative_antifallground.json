@@ -1,14 +1,8 @@
 [
-  "config": {
-    "version": "1.0.0",
-    "downloadLink": "https://www.google.com"
-  },
-  "whitelists": {
     {
       "ipAddress": "127.0.0.1",
       "customerName": "xNative.Dev",
       "discordId": "466181621767471125",
       "buyDateTime": "21/02/2567 23:37"
     }
-  }
 ]
